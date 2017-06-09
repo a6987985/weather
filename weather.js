@@ -5,7 +5,7 @@ var vm = new Vue({
 		contextB: '',
 		w: '',
 		ratio: '',
-		key: '8e48d6e8554344098bba28329a8735e5',
+		key: 'a631eabf16204d51977e4360c7cda7d4',
 		city: '南京',
 		cityId: 'CN101190101',
 		weather_now: {},
