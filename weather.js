@@ -418,7 +418,6 @@ var vm = new Vue({
 					this.contextB.arc(0, 0, 130 * this.ratio, 0, Math.PI);
 					this.contextB.stroke();
 					this.contextB.restore();
-
 					//绘制太阳
 					this.contextB.save();
 					this.contextB.rotate(this.sunPercent * 180 * Math.PI / 180);
@@ -443,7 +442,6 @@ var vm = new Vue({
 				this.open1();
 			}.bind(this));
 	}
-
 });
 
 
